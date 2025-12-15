@@ -1,6 +1,6 @@
 // src/App.jsx
 // Puntos 2.4 y 4.2 (Ensamblaje y Estructura)
-import Header from './components/Header';
+import Header from './components/header';
 import Home from './components/Home';
 import AboutUs from './components/AboutUs';
 import Beers from './components/Beers';
@@ -12,7 +12,7 @@ import WhatsAppButton from './components/WhatsAppButton';
 
 function App() {
   return (
-    
+    // <div className="index"> es la clase que estaba en el <body> original
     <div className="index"> 
         <Header />
 
