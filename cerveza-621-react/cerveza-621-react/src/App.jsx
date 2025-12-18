@@ -1,5 +1,5 @@
 // src/App.jsx
-// Puntos 2.4 y 4.2 (Ensamblaje y Estructura)
+// (Ensamblaje y Estructura)
 import Header from './components/header';
 import Home from './components/Home';
 import AboutUs from './components/AboutUs';
